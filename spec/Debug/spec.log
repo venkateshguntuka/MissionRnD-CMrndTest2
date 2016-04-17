@@ -1,0 +1,14 @@
+﻿Build started 17-04-2016 15:20:49.
+     1>Project "C:\Users\venkatesh\MissionRnDProjects\untitled\spec\spec.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\venkatesh\MissionRnDProjects\untitled\Debug\spec.dll" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\venkatesh\MissionRnDProjects\untitled\Debug\spec.pdb" /HEAP:"10000000","100000" /STACK:"10000000","100000" /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH /DLL Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Debug\CommonRouteSpec.obj
+         spec.vcxproj -> C:\Users\venkatesh\MissionRnDProjects\untitled\Debug\spec.dll
+     1>Done Building Project "C:\Users\venkatesh\MissionRnDProjects\untitled\spec\spec.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.28

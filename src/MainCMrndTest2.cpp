@@ -41,18 +41,7 @@ struct node{
 	struct node *right;
 };
 
-//Helper Functions Start
-
-
-//Helper Functions End
 
 int main(){
-	
-	//Test Odd Even SLL
 
-	//Test CommonRoute
-
-	//MangoCollector
-	
-	//Test Pillars
 }
